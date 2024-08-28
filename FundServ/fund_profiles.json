@@ -1,0 +1,27 @@
+{
+  "draw": 1,
+  "recordsTotal": 109254,
+  "recordsFiltered": 109254,
+  "data": [
+    {
+      "code": "AAM",
+      "company": "AlphaNorth Asset Management",
+      "fund_id": "100",
+      "fund_name": "ALPHANORTH PARTNERS FUND INC CLASS A - PURCHASE",
+      "currency": "CDN",
+      "load": "NL",
+      "product_type": "Hedge fund",
+      "oeo_eligible": "N/A",
+      "cdic_flag": "N/A",
+      "member_institution": "N/A",
+      "settlement": "T+1",
+      "cut_off_time": "16:00:00",
+      "classification": "Alternative Equity Focused",
+      "money_market_flag": "N",
+      "commission": "N/A",
+      "pac_swp": "N/A",
+      "distribution": "N/A",
+      "oeo_fund_id": ""
+    }
+  ]
+}
